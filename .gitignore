@@ -1,0 +1,11 @@
+# Created by .ignore support plugin (hsz.mobi)
+.idea
+.idea/
+.idea/*
+*.iml
+*.zip
+
+node_modules/
+rev/
+build/
+

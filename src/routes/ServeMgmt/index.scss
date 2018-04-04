@@ -1,0 +1,29 @@
+.content {
+  .headForm {
+      margin-bottom: 20px;
+  }
+  .table {
+      margin-bottom: 20px;
+  }
+  .listInfo{
+      font-size: 20px;
+      overflow: hidden;
+  }
+  .listInfo li{
+      width: 50%;
+      display: inline-flex;
+      padding:10px 0;
+      font-size: 12px;
+  }
+  .listInfo .lab{
+      flex: 2;
+      font-size: 12px;
+      text-align: right;
+  }
+  .listInfo .info{
+    flex: 8;
+    font-size: 12px;
+    text-align: left;
+    padding-left:30px;
+}
+}
