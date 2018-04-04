@@ -7,7 +7,7 @@ git clone https://github.com/qiangyin/gc-cloud-web.git
 npm run build
 
 配置nginx
-'''
+```
 server {
     listen 8081 default_server;
     server_name 10.112.68.189;
@@ -16,4 +16,4 @@ server {
    location / {
     try_files $uri /index.html;
   }  
-}'''
+}```
