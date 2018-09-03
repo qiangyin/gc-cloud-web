@@ -1,13 +1,13 @@
 //  const host = '10.122.251.106'
 //  const baseUrl = `http://${host}:8080`;
-const host = '10.112.101.98'
+const host = '192.168.101.98'
 const basePath = "api/v1"
 
 const baseUrl = `http://${host}:9999`;
 
 // mock
 // const baseUrl = `http://127.0.0.1:7300/mock/5a17e8c4636a2d479f40aff4`;
-const mockUrl = `http://10.112.101.90:7300/mock/5aaf4c722ac0d03a364603d5`;
+const mockUrl = `http://192.168.101.90:7300/mock/5aaf4c722ac0d03a364603d5`;
 
 const api = {
   loginApi: `${baseUrl}/59c93b516816a01f1ef09b24/login`,

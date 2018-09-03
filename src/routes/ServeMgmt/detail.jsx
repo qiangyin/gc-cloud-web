@@ -174,7 +174,7 @@ class ServeDetail extends PureComponent {
           okText="确认"
           cancelText="取消"
         >
-          {/*<Iframe url={`http://10.112.101.98:9999/content.html?namespace=default&podName=${podName}`}*/}
+          {/*<Iframe url={`http://192.168.101.98:9999/content.html?namespace=default&podName=${podName}`}*/}
                   {/*width="960px"*/}
                   {/*height="340px"*/}
                   {/*display="initial"*/}
